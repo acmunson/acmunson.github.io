@@ -3,5 +3,6 @@
 # Edit theme's home layout instead if you wanna make some changes
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: home
+#Search "minimal mistakes layouts" for other layout options
 author_profile: true
 ---
